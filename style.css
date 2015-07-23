@@ -1,0 +1,15 @@
+h1,h2{
+    color: #fff;
+    background : #337ab7;
+    text-align:center;
+    padding: 0.25em;
+    border: 1px solid #428bca;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 10px;    
+}
+img.mu{
+    width:200px;
+}
+.introduction{
+}
