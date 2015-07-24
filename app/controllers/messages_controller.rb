@@ -3,9 +3,7 @@ class MessagesController < ApplicationController
     # Messageを全て取得する。
     @messages = Message.all
   end
-  
-  def index
-  end
+
 
   ## ここから追記
   def create
